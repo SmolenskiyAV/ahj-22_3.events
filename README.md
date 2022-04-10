@@ -13,7 +13,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/yj6wh0ab9bdmbyn8?svg=true)](https://ci.appveyor.com/project/SmolenskiyAV/ahj-22-3-events)
 
-
+https://smolenskiyav.github.io/ahj-22_3.events/
 #### Легенда
 
 Вы решили доделать игру с гоблинами, поэтому нужно реализовать оставшуюся логику.
