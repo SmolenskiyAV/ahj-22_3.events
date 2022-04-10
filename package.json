@@ -1,5 +1,8 @@
 {
   "name": "ahj-22_3.events",
+  "jest": {
+    "testEnvironment": "jsdom"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
